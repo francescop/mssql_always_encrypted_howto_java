@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.jks
+*.key
+*.pem
+*.crt
+.env
+sqljdbc_12.8/
